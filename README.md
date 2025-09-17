@@ -11,6 +11,12 @@ It stores my personal candidate profile in a **MongoDB database**, exposes it vi
 Frontend + API hosted at:  
 👉 [https://predusk-assement-basic-api.vercel.app/](https://predusk-assement-basic-api.vercel.app/)
 
+Backnend + API hosted at:  
+👉 [https://predusk-assement-basic-api-backend.onrender.com](https://predusk-assement-basic-api-backend.onrender.com/health)
+
+
+
+
 ---
 
 ## 🛠 Tech Stack
